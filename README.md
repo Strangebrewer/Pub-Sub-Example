@@ -1,5 +1,8 @@
 # Pubsub - demo
 
+This is not my project. It's a clone of this project: [https://github.com/hzub/pubsub-demo](https://github.com/hzub/pubsub-demo)
+Go there and star it and give him props.
+
 Small app displaying a library of your favourite places on a Google Map.
 Created step-by-step in article:
 https://medium.com/@hubert.zub/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-72a12cd68d44
